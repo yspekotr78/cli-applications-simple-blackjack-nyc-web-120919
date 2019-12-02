@@ -72,7 +72,7 @@ end
  # when others
  #   invalid_command
  # end
-end
+#end
 
 #####################################################
 # get every test to pass before coding runner below #

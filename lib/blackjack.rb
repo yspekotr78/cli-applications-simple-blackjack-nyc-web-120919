@@ -67,11 +67,11 @@ end
  # case get_user_input
  # when "s"
  #   x
-  when "h"
-    x += deal_card
-  when others
-    invalid_command
-  end
+ # when "h"
+  #  x += deal_card
+ # when others
+ #   invalid_command
+ # end
 end
 
 #####################################################

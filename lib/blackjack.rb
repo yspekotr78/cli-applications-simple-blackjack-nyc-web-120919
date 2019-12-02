@@ -60,7 +60,19 @@ def hit?(total)
  
 end
 
-
+#alternate hit? method
+#def hit?(x)
+  # code hit? here
+ # prompt_user
+ # case get_user_input
+ # when "s"
+ #   x
+  when "h"
+    x += deal_card
+  when others
+    invalid_command
+  end
+end
 
 #####################################################
 # get every test to pass before coding runner below #
